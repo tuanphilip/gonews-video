@@ -1,0 +1,12 @@
+build/bin/
+node_modules/
+frontend/dist/
+frontend/node_modules/
+output/
+test_run/
+*.mp4
+*.mp3
+*.wav
+*.jpg
+*.png
+*.exe
